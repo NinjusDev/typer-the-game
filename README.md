@@ -17,8 +17,10 @@ Typer 3000 es una aplicación web diseñada para ayudarte a mejorar tu velocidad
 Para iniciar Typer 3000 en tu entorno local, sigue estos pasos:
 
 1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/tu_usuario/typer3000.git
+ 
+  ```bash
+   git clone https://github.com/ninjusdev/typer3000.git
+  ```
 2. **Abre el archivo index.html en tu navegador web:**
 Haz doble clic en index.html
 ¡Comienza a practicar mecanografía!
